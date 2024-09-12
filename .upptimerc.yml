@@ -8,7 +8,7 @@ sites:
   - name: kripeshmainai
     url: https://www.kripeshmainali.com.np
   -name: cron newsfeed
-    url: http://news-feed.great-site.net/?wp_automatic=cron
+    url: curl http://news-feed.great-site.net/?wp_automatic=cron
   
 
 status-website:
