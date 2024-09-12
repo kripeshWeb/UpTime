@@ -4,11 +4,9 @@ repo: UpTime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: http://news-feed.great-site.net/?wp_automatic=cron
   - name: kripeshmainai
     url: https://www.kripeshmainali.com.np
-  -name: cron newsfeed
-    url: http://news-feed.great-site.net/?wp_automatic=cron
   
 
 status-website:
