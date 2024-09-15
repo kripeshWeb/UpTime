@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "http://news-feed.great-site.net/?wp_automatic=cron",
-    "icon": "https://icons.duckduckgo.com/ip3/news-feed.great-site.net.ico",
-    "slug": "google",
+    "name": "rdp",
+    "url": "https://6070-cs-e021a539-8589-4477-a295-7bcd566fd30e.cs-asia-southeast1-palm.cloudshell.dev/?authuser=7&redirectedPreviously=true",
+    "icon": "https://icons.duckduckgo.com/ip3/6070-cs-e021a539-8589-4477-a295-7bcd566fd30e.cs-asia-southeast1-palm.cloudshell.dev.ico",
+    "slug": "rdp",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 377,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "time": 683,
+    "timeDay": 683,
+    "timeWeek": 683,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 198,
+    "timeDay": 255,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   }
 ]
