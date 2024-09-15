@@ -4,19 +4,19 @@
     "url": "https://6070-cs-e021a539-8589-4477-a295-7bcd566fd30e.cs-asia-southeast1-palm.cloudshell.dev/?authuser=7&redirectedPreviously=true",
     "icon": "https://icons.duckduckgo.com/ip3/6070-cs-e021a539-8589-4477-a295-7bcd566fd30e.cs-asia-southeast1-palm.cloudshell.dev.ico",
     "slug": "rdp",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 735,
-    "timeDay": 735,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "76.90%",
+    "uptimeDay": "76.90%",
+    "uptimeWeek": "76.90%",
+    "uptimeMonth": "76.90%",
+    "uptimeYear": "76.90%",
+    "time": 736,
+    "timeDay": 736,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {
-      "2024-09-15": 0
+      "2024-09-15": 14
     }
   },
   {
