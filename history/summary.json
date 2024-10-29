@@ -16,7 +16,7 @@
     "timeMonth": 745,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2024-10-29": 47,
+      "2024-10-29": 704,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -68,17 +68,19 @@
     "url": "https://www.kripeshmainali.com.np",
     "icon": "https://icons.duckduckgo.com/ip3/www.kripeshmainali.com.np.ico",
     "slug": "kripeshmainai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 208,
-    "timeWeek": 206,
-    "timeMonth": 226,
-    "timeYear": 214,
-    "dailyMinutesDown": {}
+    "time": 212,
+    "timeDay": 153,
+    "timeWeek": 192,
+    "timeMonth": 221,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2024-10-29": 0
+    }
   }
 ]
