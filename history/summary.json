@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 740,
-    "timeDay": 734,
-    "timeWeek": 738,
+    "timeDay": 757,
+    "timeWeek": 735,
     "timeMonth": 746,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2025-11-19": 54,
+      "2025-11-20": 53,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -379,8 +380,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -390,14 +390,14 @@
     "slug": "kripeshmainai",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "87.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.95%",
-    "time": 286,
-    "timeDay": 457,
-    "timeWeek": 365,
-    "timeMonth": 292,
+    "time": 285,
+    "timeDay": 181,
+    "timeWeek": 366,
+    "timeMonth": 293,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-11-18": 174,
