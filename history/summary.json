@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 733,
-    "timeDay": 629,
-    "timeWeek": 693,
-    "timeMonth": 679,
+    "timeDay": 672,
+    "timeWeek": 690,
+    "timeMonth": 678,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2026-05-31": 150,
+      "2026-06-01": 160,
+      "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -379,8 +380,7 @@
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
-      "2025-06-02": 1440,
-      "2025-06-01": 1440
+      "2025-06-02": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kripeshmainali.com.np.ico",
     "slug": "kripeshmainai",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 340,
-    "timeDay": 352,
-    "timeWeek": 233,
-    "timeMonth": 292,
+    "timeDay": 175,
+    "timeWeek": 238,
+    "timeMonth": 283,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-09-30": 40,
